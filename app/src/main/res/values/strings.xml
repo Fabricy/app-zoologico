@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zoologico</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtNomeDoAnimal">NomeDoAnimal</string>
+    <string name="txtIdade">Idade</string>
+    <string name="txtSelecione">Selecione</string>
+    <string name="txtEspecies">Especies</string>
+    <string name="hintEspecies">Digite a especie do animal</string>
+    <string name="hintNome">Enter com o nome do animal</string>
+    <string name="hintIdade">Entre com a idade do animal</string>
+    <string name="txtSalvar">Salvar</string>
+    
+    <string name="txtAtencao">Atencao!!!</string>
+    <string name="txtCamposObrigatorios">Preencha os campos obrigatorios</string>
+</resources>
